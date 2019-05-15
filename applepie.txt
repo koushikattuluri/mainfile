@@ -1,0 +1,4 @@
+apples 10
+sugar 100g
+milk 250ml
+cardomom 15p
